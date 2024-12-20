@@ -4,3 +4,12 @@
 My passion is health and care, and the modelling, production and use of clinical data to enable efficient healthcare. 
 
 This content is primarily made to test a setup with antora static github pages. 
+
+
+== Current work 
+
+== Modelling 
+
+* https://github.com/bjornna/eyecare_retinopaty[Eye Care]
+* https://github.com/bjornna/modelling-mdt[Multidiciplinary teams]
+
