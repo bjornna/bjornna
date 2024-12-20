@@ -1,4 +1,6 @@
-## Hi there 👋
+## Bjornna 👋
+I work with clinical data and applications. We use openEHR to define and store data. 
+The projects/repositories here are work to explore ideas and also some modelling projects. 
 
 <!--
 **bjornna/bjornna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
