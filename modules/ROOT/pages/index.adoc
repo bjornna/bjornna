@@ -7,6 +7,9 @@ This content is primarily made to test a setup with antora static github pages.
 
 
 == Current work 
+2024 was an inspiring year for openEHR in Norway. The first pilot for the inter regional EHR for cancer began in June. This was for head and neck cancer. Current work is on CNS, Sarcoma, Breast and CRC. 
+
+
 
 == Modelling 
 
