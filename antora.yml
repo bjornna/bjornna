@@ -1,7 +1,7 @@
 name: bjornna
 version: 1.0.0
 title: Bjornna
-start_page: user:index.adoc
+start_page: ROOT:index.adoc
 nav: 
   - modules/ROOT/nav.adoc
   
