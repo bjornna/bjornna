@@ -1,18 +1,24 @@
-= Bjørns side
+= Bjørn på GitHub
 
-== About 
-My passion is health and care, and the modelling, production and use of clinical data to enable efficient healthcare. 
+== About me 
+I work with healthcare and health data in the Norwegian company DIPS. I am a trained physiotherapist and have an MSc. in communication technology with a specialization in teleeconomics. Therefore, I am lucky to be able to combine several aspects of my formal background in my daily job.
 
-This content is primarily made to test a setup with antora static github pages. 
+As a healthcare professional, I know that patient data is crucial for making good and correct decisions. Good quality data is crucial for the healthcare service and for the applications that will support healthcare professionals in their daily work with patients.
+
+openEHR is an international community and organization that develops specifications and data models for health data. We chose openEHR as the formalism for health data in DIPS Arena in 2010. Over the years, this choice has proven to be solid. There are now more and more suppliers, nations, regions and other stakeholders applying for openEHR and giving the community increased strength.
 
 
-== Current work 
-2024 was an inspiring year for openEHR in Norway. The first pilot for the inter regional EHR for cancer began in June. This was for head and neck cancer. Current work is on CNS, Sarcoma, Breast and CRC. 
-
+== About me on GitHub
+I use my GitHub account to explore different areas. It could be small prototypes or a collection of clinical models. There is no common thread in the different repositories on the account other than that there are different projects that I have enjoyed exploring.
 
 
 == Modelling 
 
+Better and openEHR International provides Archetype Designer as a service. I have a few projects which are connected to this. They are listed below. If you want to explore them you might `fork` them to your account and connect the project into your account on Archetype Designer. 
+
+
+* https://github.com/bjornna/modelling-oncology[Oncology]
+* https://github.com/bjornna/modelling-mdt[Oncology Multidiciplinary teams]
 * https://github.com/bjornna/eyecare_retinopaty[Eye Care]
-* https://github.com/bjornna/modelling-mdt[Multidiciplinary teams]
+
 
