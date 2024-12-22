@@ -7,7 +7,7 @@ jobs:
     name: Dispatch 
     runs-on: ubuntu-latest 
     steps:           
-      - name: Fire event
+      - name: Fire Dispatc Event
         run: |
           curl -L \
             -X POST \
