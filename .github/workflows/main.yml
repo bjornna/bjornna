@@ -1,0 +1,20 @@
+name: Dispatcher 
+on: 
+  push:
+    branches: [main]
+
+jobs: 
+  dispatch: 
+    name: Dispatch 
+    runs-on: ubuntu-latest 
+    strategy: 
+      matrix: 
+        repo: ['bjornna/bjornna.github.io']
+        timeout-minutes: [5]
+    steps: 
+      - name: Repositry Dispatch 
+        uses: peter-evans/repository-dispatch@v3
+        with: 
+          repository: bjornna/bjornna.github.io 
+          event-type: doc-update-event 
+        
