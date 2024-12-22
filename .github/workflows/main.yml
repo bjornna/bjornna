@@ -15,6 +15,7 @@ jobs:
       - name: Repositry Dispatch 
         uses: peter-evans/repository-dispatch@v3
         with: 
+          token: ${{ secrets.doc-pat }}
           repository: bjornna/bjornna.github.io 
           event-type: doc-update-event 
         
