@@ -7,6 +7,20 @@ As a healthcare professional, I know that patient data is crucial for making goo
 
 openEHR is an international community and organization that develops specifications and data models for health data. We chose openEHR as the formalism for health data in DIPS Arena in 2010. Over the years, this choice has proven to be solid. There are now more and more suppliers, nations, regions and other stakeholders applying for openEHR and giving the community increased strength.
 
+== Bjørn Næss and openEHR
+
+Bjørn Næss is a notable figure in the openEHR community, known for his significant contributions to the development and promotion of openEHR standards and practices. His work has had a substantial impact on the adoption and implementation of openEHR in various healthcare settings. Some of his key contributions include:
+
+Leadership and Advocacy:: Bjørn Næss has been a strong advocate for openEHR, promoting its benefits and encouraging its adoption among healthcare organizations and professionals.
+
+Technical Contributions:: He has been involved in the development of technical specifications and tools that support the openEHR framework, helping to enhance its functionality and usability.
+
+Community Engagement:: Bjørn Næss actively participates in the openEHR community, sharing his knowledge and expertise through presentations, publications, and collaborative projects.
+
+Education and Training:: He has contributed to the education and training of healthcare professionals and developers, helping to build a knowledgeable and skilled community around openEHR.
+
+Through his efforts, Bjørn Næss has played a role in advancing the openEHR initiative and improving the way clinical data is managed and utilized in healthcare.
+
 
 == About me on GitHub
 I use my GitHub account to explore different areas. It could be small prototypes or a collection of clinical models. There is no common thread in the different repositories on the account other than that there are different projects that I have enjoyed exploring.

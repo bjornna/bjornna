@@ -51,3 +51,18 @@ The best approach for clinical modelling depends on the specific needs and conte
 7. **Documentation and Training**: Provide comprehensive documentation and training for users of the clinical models. This ensures that the models are correctly implemented and used effectively.
 
 By following these practices, healthcare organizations can create robust and effective clinical models that enhance data interoperability, improve patient care, and support clinical decision-making.
+
+== DIPS and openEHR
+DIPS is a significant player in the openEHR community. As a leading provider of healthcare information systems in the Nordic region, DIPS has been actively involved in the development and implementation of openEHR-based solutions. Their contributions include:
+
+1. **Innovative Solutions**: DIPS develops innovative healthcare solutions that leverage the openEHR framework to ensure interoperability and standardization across healthcare systems.
+
+2. **Collaboration**: DIPS collaborates with various stakeholders, including healthcare providers, researchers, and other technology companies, to advance the adoption and evolution of openEHR.
+
+3. **Implementation**: DIPS has successfully implemented openEHR-based systems in numerous healthcare organizations, demonstrating the practical benefits and scalability of the framework.
+
+4. **Community Engagement**: DIPS actively participates in the openEHR community, contributing to the development of standards, sharing best practices, and supporting the growth of the ecosystem.
+
+Through their efforts, DIPS has established itself as a key player in promoting and utilizing openEHR to improve healthcare data management and patient care.
+
+
