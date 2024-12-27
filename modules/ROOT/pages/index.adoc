@@ -9,17 +9,17 @@ openEHR is an international community and organization that develops specificati
 
 == Bjørn Næss and openEHR
 
-Bjørn Næss is a notable figure in the openEHR community, known for his significant contributions to the development and promotion of openEHR standards and practices. His work has had a substantial impact on the adoption and implementation of openEHR in various healthcare settings. Some of his key contributions include:
+Bjørn Næss is a respected member of the openEHR community, recognized for his valuable contributions to advancing openEHR standards and practices. His work has supported the broader adoption and implementation of openEHR in healthcare settings. Some areas where he has contributed include:
 
-Leadership and Advocacy:: Bjørn Næss has been a strong advocate for openEHR, promoting its benefits and encouraging its adoption among healthcare organizations and professionals.
+Leadership and Advocacy:: Bjørn Næss has consistently highlighted the benefits of openEHR, encouraging its adoption among healthcare organizations and professionals.
 
-Technical Contributions:: He has been involved in the development of technical specifications and tools that support the openEHR framework, helping to enhance its functionality and usability.
+Technical Contributions:: He has contributed to the development of technical specifications and tools within the openEHR framework, enhancing its functionality and accessibility.
 
-Community Engagement:: Bjørn Næss actively participates in the openEHR community, sharing his knowledge and expertise through presentations, publications, and collaborative projects.
+Community Engagement:: Bjørn Næss is an active participant in the openEHR community, sharing his insights and collaborating through presentations, publications, and joint projects.
 
-Education and Training:: He has contributed to the education and training of healthcare professionals and developers, helping to build a knowledgeable and skilled community around openEHR.
+Education and Training:: He has been involved in efforts to educate healthcare professionals and developers, helping to strengthen the community’s understanding and application of openEHR.
 
-Through his efforts, Bjørn Næss has played a role in advancing the openEHR initiative and improving the way clinical data is managed and utilized in healthcare.
+Through these contributions, Bjørn Næss has supported the progress of the openEHR initiative, helping to improve how clinical data is managed and used in healthcare.
 
 
 == About me on GitHub
